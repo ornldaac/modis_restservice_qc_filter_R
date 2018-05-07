@@ -3,7 +3,7 @@
 *Date: February 27, 2018*  
 *Contact for ORNL DAAC: uso@daac.ornl.gov*  
 
-### Keywords: MODIS, web service, R, SOAP
+### Keywords: MODIS, web service, R, REST
 
 ## Overview
 
