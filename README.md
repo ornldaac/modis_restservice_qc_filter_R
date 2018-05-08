@@ -1,6 +1,6 @@
 # Access the MODIS web service and perform quality filtering using R
 
-*Author: ORNL DAAC*
+*Author: ORNL DAAC*  
 *Date: February 27, 2018*  
 *Contact for ORNL DAAC: uso@daac.ornl.gov*  
 
