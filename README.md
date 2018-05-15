@@ -25,6 +25,8 @@ This tutorial will demonstrate how to do the following in R:
 
 ![Daytime LST for North Table Mountain Ecological Preserve 2001-2003](lst_timeseries_example.png)
 
+[The same instructions are provided in Python in another repository.](https://github.com/ornldaac/modis_restservice_qc_filter_Python)
+
 ## Source Data
 
 Input data were accessed through the [MODIS Web Service](https://modis.ornl.gov/data/modis_webservice.html) hosted at the ORNL DAAC. All necessary steps for accessing the web service using R are outlined in the [jupyter notebook](modis_restservice_qc_filter_R.ipynb).
