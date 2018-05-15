@@ -23,9 +23,9 @@ This tutorial will demonstrate how to do the following in R:
 * build a time series of MOD11A2 land surface temperature from multiple web service subset requests
 * perform quality control filtering based on multiple MODIS qc criteria
 
-![Daytime LST for North Table Mountain Ecological Preserve 2001-2003](lst_timeseries_example.png)
-
 [The same instructions are provided in Python in another repository.](https://github.com/ornldaac/modis_restservice_qc_filter_Python)
+
+![Daytime LST for North Table Mountain Ecological Preserve 2001-2003](lst_timeseries_example.png)
 
 ## Source Data
 
